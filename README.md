@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -9,7 +8,8 @@
             text-align: center;
             background-color:brown;
             color: aliceblue;
-            padding:20px;
+            width:100%;
+            padding:10px;
         }
         body{
             text-align: center;
