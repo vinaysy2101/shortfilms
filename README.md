@@ -1,4 +1,4 @@
- <html lang="en">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -49,18 +49,4 @@
         <br><hr>
     </main>
 </body>
-</html>        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-         referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
-        </iframe>
-        <br><hr>
-        <h1><u>PART 1</u></h1>
-        <iframe width="315" height="197" src="https://www.youtube.com/embed/-wWP0M_G9u4?si=yhtjNu5xoJY3veNQ"
-         title="YouTube video player" frameborder="0"
-         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-         referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
-        </iframe>
-        <br><hr>
-    </main>
-</body>
 </html>
-
